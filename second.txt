@@ -1,1 +1,2 @@
 hello world2
+second string of file2
