@@ -1,2 +1,3 @@
 hello world2
 second string of file2
+third string of file2
